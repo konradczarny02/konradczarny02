@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konrad
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Redux
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me konradcz02@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=konradczarny02)](https://github.com/anuraghazra/github-readme-stats)
